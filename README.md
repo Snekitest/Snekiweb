@@ -1,0 +1,2 @@
+# Snekiweb
+Moj websajt 
